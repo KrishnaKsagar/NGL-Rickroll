@@ -2,7 +2,7 @@ Fake NGL link to rickroll your friends <br><br>
 
 Follow the steps to make it for yourself:
 
-`Step 1:` Import the github repo in repl.it<br>
+`Step 1:` Import the github repo in repl.it with HTML, CSS, JS as the lanugage<br>
 
 `Step 2:` Go to index.html line 40 and replace the pfp url with your own profile picture.<br>
 
